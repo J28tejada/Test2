@@ -4,3 +4,4 @@
     Attend classes on time.
     Visit aunt.
     Apply for remote job.
+    Practice code.
